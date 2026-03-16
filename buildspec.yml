@@ -8,3 +8,7 @@ artifacts:
   files:
     - '**/*'
   base-directory: src
+--application-name:
+  s3-location:
+    -  'ope-kadai4-s3'
+  
